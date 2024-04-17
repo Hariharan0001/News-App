@@ -3,9 +3,9 @@
     align-items: center;
     height: 100vh;   
   } 
-  /* *{
+  *{
     background-color:black;
-  } */
+  }
   #Navbar{
     position: fixed;
     width: 16.7%;
